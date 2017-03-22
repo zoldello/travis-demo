@@ -1,2 +1,2 @@
 # travis-demo
-demo of travis
+demo of travis ci
